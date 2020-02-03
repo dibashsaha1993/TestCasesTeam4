@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="enabledProfiles">
       <list>
@@ -43,7 +46,7 @@
   </component>
   <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml">
     <configuration name="CignaHmePageTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DibashProject" />
+      <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cigna.test.*" />
@@ -60,7 +63,7 @@
       </method>
     </configuration>
     <configuration name="/Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DibashProject" />
+      <module name="Team4_WebAutomationFramework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/CignaSuite.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
@@ -70,7 +73,7 @@
       </method>
     </configuration>
     <configuration name="/Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DibashProject" />
+      <module name="Team4_WebAutomationFramework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/EbaySuite.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
