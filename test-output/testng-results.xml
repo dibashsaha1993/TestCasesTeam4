@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="17902" started-at="2020-02-03T02:15:15Z" finished-at="2020-02-03T02:15:33Z">
+    <groups>
+    </groups>
+    <test name="regression test" duration-ms="17902" started-at="2020-02-03T02:15:15Z" finished-at="2020-02-03T02:15:33Z">
+      <class name="com.ebay.tests.HelpAndContactPageTests">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="setup" is-config="true" duration-ms="5185" started-at="2020-02-03T07:45:15Z" finished-at="2020-02-03T07:45:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHelpPageUrl()[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="verifyHelpPageUrl" duration-ms="2747" started-at="2020-02-03T07:45:20Z" finished-at="2020-02-03T07:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHelpPageUrl -->
+        <test-method status="PASS" signature="verifyHelpPageHeading()[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="verifyHelpPageHeading" duration-ms="2393" started-at="2020-02-03T07:45:23Z" finished-at="2020-02-03T07:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHelpPageHeading -->
+        <test-method status="PASS" signature="verifyHelpSearch()[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="verifyHelpSearch" duration-ms="5770" started-at="2020-02-03T07:45:25Z" finished-at="2020-02-03T07:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHelpSearch -->
+        <test-method status="PASS" signature="verifyHelpBreadCrum()[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="verifyHelpBreadCrum" duration-ms="39" started-at="2020-02-03T07:45:31Z" finished-at="2020-02-03T07:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHelpBreadCrum -->
+        <test-method status="PASS" signature="verifyDailyDealsUrl()[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="verifyDailyDealsUrl" duration-ms="1155" started-at="2020-02-03T07:45:31Z" finished-at="2020-02-03T07:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDailyDealsUrl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.HelpAndContactPageTests@50cbc42f]" name="tearDown" is-config="true" duration-ms="595" started-at="2020-02-03T07:45:32Z" finished-at="2020-02-03T07:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebay.tests.HelpAndContactPageTests -->
+    </test> <!-- regression test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

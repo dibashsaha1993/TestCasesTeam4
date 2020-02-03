@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="prod" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHX2cM3a0oW5Sr52pGyBYX6SyG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cigna.pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml">
+    <configuration name="CignaHmePageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DibashProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cigna.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cigna.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cigna.test.CignaHmePageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DibashProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CignaSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DibashProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/EbaySuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" />
+        <item itemvalue="TestNG.CignaHmePageTests" />
+        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="" />
+      <created>1580703787434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580703787434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1580707166696">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1580707166696" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1580707166695">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1580707166695" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1580707166695">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1580707166695" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1580707166696">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1580707166696" />
+    <state x="349" y="142" key="SettingsEditor" timestamp="1580706482408">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1580706482408" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1580755441155">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1580755441155" />
+    <state x="505" y="231" key="run.anything.popup" timestamp="1580705542606">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="505" y="231" key="run.anything.popup/0.23.1680.960@0.23.1680.960" timestamp="1580705542606" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1580706479288">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1580706479288" />
+  </component>
+</project>

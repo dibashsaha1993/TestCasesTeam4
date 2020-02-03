@@ -1,0 +1,67 @@
+<suite name="Regression Suite" parallel="tests" thread-count="2"> 
+    
+    <parameter name="browser" value="firefox"></parameter>
+    
+    <test name="regression test">
+        
+        <classes>
+            
+            <class name="com.amazon.tests.home.SearchPageTests"></class>
+            
+        </classes>
+        
+    </test>
+    
+     <test name="regression test1">
+            
+        <parameter name="browser" value="chrome"></parameter>
+        
+        <classes>
+            
+            <class name="com.amazon.tests.home.SearchPageTests">
+                
+                <methods><exclude name="validateNoResuadasdlt"></exclude></methods>
+                
+            </class>
+            
+        </classes>
+        
+    </test>
+    
+      
+    <test name="regression test2">
+        
+        <classes>
+            
+            <class name="com.amazon.tests.home.SearchPageTests"></class>
+            
+        </classes>
+        
+    </test>
+    
+     <test name="regression test3">
+            
+        <parameter name="browser" value="chrome"></parameter>
+        
+        <classes>
+            
+            <class name="com.amazon.tests.home.SearchPageTests"></class>
+            
+        </classes>
+        
+    </test>
+    
+       
+     <test name="regression test4">
+            
+        <parameter name="browser" value="chrome"></parameter>
+        
+        <classes>
+            
+            <class name="com.amazon.tests.home.SearchPageTests"></class>
+            
+        </classes>
+        
+    </test>
+    
+</suite>

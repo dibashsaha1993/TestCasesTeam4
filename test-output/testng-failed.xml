@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="regression test(failed)" preserve-order="true">
+    <classes>
+      <class name="com.ebay.tests.HelpAndContactPageTests">
+        <methods>
+          <include name="setup"/>
+          <include name="verifyHelpBreadCrum"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ebay.tests.HelpAndContactPageTests -->
+    </classes>
+  </test> <!-- regression test(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

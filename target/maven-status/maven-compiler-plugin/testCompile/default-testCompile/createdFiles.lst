@@ -1,0 +1,10 @@
+com/ebay/tests/SignInPageTests.class
+com/ebay/tests/AddToCartPageTests.class
+com/ebay/tests/HelpAndContactPageTests.class
+com/amazon/tests/home/SearchMultipleProduct.class
+com/amazon/tests/home/ActionEvents.class
+com/ebay/tests/AdvancedSearchPageTests.class
+com/ebay/tests/HomePageTests.class
+com/amazon/tests/home/MenuTests.class
+com/amazon/tests/home/SearchPageTests.class
+com/amazon/tests/home/JavaScriptExecutor.class
