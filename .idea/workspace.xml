@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="" />
+    <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/tests/AddToCartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ebay/tests/AddToCartPageTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -136,10 +144,18 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1580706482408" />
+    <state x="531" y="243" key="Vcs.Push.Dialog.v2" timestamp="1581223456121">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223456121" />
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1580755441155">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1580755441155" />
+    <state x="570" y="301" key="git4idea.merge.GitPullDialog" timestamp="1581223274992">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="570" y="301" key="git4idea.merge.GitPullDialog/0.23.1680.967@0.23.1680.967" timestamp="1581223274992" />
     <state x="505" y="231" key="run.anything.popup" timestamp="1580705542606">
       <screen x="0" y="23" width="1680" height="960" />
     </state>

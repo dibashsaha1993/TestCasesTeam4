@@ -24,6 +24,7 @@ public class AddToCartPageTests extends BaseTest{
 			Assert.assertTrue(true);
 		}else{
 			Assert.assertTrue(false);
+
 		}
 	}
 	
