@@ -119,11 +119,11 @@ public class HomePage {
     public void ImageChangeButton4() {
         ImageChangingButton4.click();
     }
-   /* @FindBy(xpath = "//*[@id=\"form-element-input_28550\"]")
+    @FindBy(xpath = "//*[@id=\"form-element-input_28550\"]")
     WebElement InputButton;
     public void ValidateInputButton(){
         InputButton.click();
-    }*/
+    }
    @FindBy(xpath = "//*[@id=\"main\"]/div[5]/div/div/div/div/div[2]/div/div/div[3]/div/div/div/div/div[2]/div/a")
    WebElement CheckCoverage;
    public void ValidateCheckCoverage(){

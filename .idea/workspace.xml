@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cigna/test/CignaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CignaSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cigna/pages/CignaHomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cigna/test/CignaHmePageTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sprint/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sprint/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintBusinessPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintBusinessPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cigna/pages/CignaHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sprint/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sprint/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cigna/test/CignaHmePageTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,59 +67,6 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.SprintHomepageTest">
-    <configuration name="AddToCartPageTests.verifySignInPageOption" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ebay.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.tests.AddToCartPageTests" />
-      <option name="METHOD_NAME" value="verifySignInPageOption" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdvancedSearchPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ebay.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.tests.AdvancedSearchPageTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdvancedSearchPageTests.verifyAdvanceSearchOption" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ebay.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ebay.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.ebay.tests.AdvancedSearchPageTests" />
-      <option name="METHOD_NAME" value="verifyAdvanceSearchOption" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SprintHomepageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
@@ -134,7 +84,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SprintHomepageTest.ValidateAction" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SprintHomepageTest.ValidateBusiness" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -144,7 +94,61 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.sprint.test" />
       <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateAction" />
+      <option name="METHOD_NAME" value="ValidateBusiness" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintHomepageTest.ValidateCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
+      <option name="METHOD_NAME" value="ValidateCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintHomepageTest.ValidateCheckCoverage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
+      <option name="METHOD_NAME" value="ValidateCheckCoverage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintHomepageTest.ValidateSignInButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
+      <option name="METHOD_NAME" value="ValidateSignInButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -155,10 +159,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.SprintHomepageTest" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateAction" />
-        <item itemvalue="TestNG.AdvancedSearchPageTests.verifyAdvanceSearchOption" />
-        <item itemvalue="TestNG.AdvancedSearchPageTests" />
-        <item itemvalue="TestNG.AddToCartPageTests.verifySignInPageOption" />
+        <item itemvalue="TestNG.SprintHomepageTest.ValidateBusiness" />
+        <item itemvalue="TestNG.SprintHomepageTest.ValidateCheckCoverage" />
+        <item itemvalue="TestNG.SprintHomepageTest.ValidateSignInButton" />
+        <item itemvalue="TestNG.SprintHomepageTest.ValidateCart" />
       </list>
     </recent_temporary>
   </component>
@@ -208,26 +212,26 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.960@0.23.1680.960" timestamp="1581685546264" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581685242986">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581695180109">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581685242985" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581685242984">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581695180109" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581695180108">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581685242984" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581685242984">
+    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581695180108" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581695180107">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581685242984" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581685242985">
+    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581695180107" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581695180108">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581685242985" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581695180108" />
     <state x="485" y="165" key="Maven.ArtifactSearchDialog" timestamp="1581680987568">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
