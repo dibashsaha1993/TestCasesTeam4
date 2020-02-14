@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprint/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprint/BusinessPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CignaSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CignaSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EbaySuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EbaySuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/common/utils/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/common/utils/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/ActionEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/ActionEvents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/JavaScriptExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/JavaScriptExecutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/MenuTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/MenuTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchMultipleProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchMultipleProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AddToCartPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AddToCartPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AdvancedSearchPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AdvancedSearchPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HomePageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HomePageTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,26 +199,26 @@
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="548" y="105" key="CommitChangelistDialog2/0.23.1680.967@0.23.1680.967" timestamp="1581223536876" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581681971514">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581682068392">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581681971514" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581681971514">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581682068392" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581682068391">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581681971514" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581681971513">
+    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581682068391" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581682068390">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581681971513" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581681971514">
+    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581682068390" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581682068391">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581681971514" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581682068391" />
     <state x="485" y="165" key="Maven.ArtifactSearchDialog" timestamp="1581680987568">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
