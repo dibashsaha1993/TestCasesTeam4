@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.io.Reader;
 import java.util.Properties;
 
-import com.cigna.pages.CignaHomePage;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -30,8 +30,7 @@ public class BaseTest{
 	public SignInPage signInPageObj;
 	public HelpAndContactPage helpPageObj;
 
-	//create object for Cigna
-	public CignaHomePage cignaHomePageObj;
+
 
 	
 	public BaseTest() throws Exception{ 
@@ -70,8 +69,7 @@ public class BaseTest{
 		signInPageObj = new SignInPage(driver);
 		helpPageObj = new HelpAndContactPage(driver);
 
-		//intiate object
-		cignaHomePageObj = new CignaHomePage(driver);
+
 
 	}
 
