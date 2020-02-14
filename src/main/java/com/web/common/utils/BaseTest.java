@@ -49,9 +49,9 @@ public class BaseTest{
 	
 	public WebDriver driver;
 	
-	@Parameters("browser")
+	@Parameters({"browser","url"})
 	@BeforeClass
-	public void setup(String brws){
+	public void setup(String brws,String url){
 		
 		if(brws.equals("chrome")){
 		
@@ -59,11 +59,11 @@ public class BaseTest{
 		driver =new ChromeDriver();
 		
 		}else if(brws.equals("firefox")){
-			System.setProperty("webdriver.gecko.driver", "drivers\\geckodriver.exe");
-			driver =new FirefoxDriver();
+			System.setProperty("webdriver.chrome.driver", "drivers\\geckodriver.exe");
+			driver =new ChromeDriver();
 				
 		}
-		driver.get(URL);
+		driver.get(url);
 		
 		homePageObj = new HomePage(driver);
 		advanceSearchPageObj = new AdvancedSearchPage(driver);

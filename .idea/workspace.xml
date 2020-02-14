@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sprint/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/ebay/tests/AddToCartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ebay/tests/AddToCartPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CignaSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CignaSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EbaySuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EbaySuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/common/utils/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/common/utils/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/ActionEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/ActionEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/JavaScriptExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/JavaScriptExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/MenuTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/MenuTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchMultipleProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchMultipleProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchPageTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AddToCartPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AddToCartPageTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AdvancedSearchPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AdvancedSearchPageTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HomePageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HomePageTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +38,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="enabledProfiles">
@@ -41,10 +56,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29770115" />
     <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sprint" />
+      <recent name="com.sprint.test" />
       <recent name="com.cigna.pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -52,17 +72,35 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml">
-    <configuration name="CignaHmePageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SprintHomepageTest">
+    <configuration name="AddToCartPageTests.verifySignInPageOption" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cigna.test.*" />
+          <option name="PATTERN" value="com.ebay.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cigna.test" />
-      <option name="MAIN_CLASS_NAME" value="com.cigna.test.CignaHmePageTests" />
+      <option name="PACKAGE_NAME" value="com.ebay.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.tests.AddToCartPageTests" />
+      <option name="METHOD_NAME" value="verifySignInPageOption" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancedSearchPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.tests.AdvancedSearchPageTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -70,20 +108,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AdvancedSearchPageTests.verifyAdvanceSearchOption" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/CignaSuite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ebay.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ebay.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ebay.tests.AdvancedSearchPageTests" />
+      <option name="METHOD_NAME" value="verifyAdvanceSearchOption" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SprintHomepageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/EbaySuite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintHomepageTest.ValidateAction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
+      <option name="METHOD_NAME" value="ValidateAction" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -92,9 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" />
-        <item itemvalue="TestNG.CignaHmePageTests" />
-        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" />
+        <item itemvalue="TestNG.SprintHomepageTest" />
+        <item itemvalue="TestNG.SprintHomepageTest.ValidateAction" />
+        <item itemvalue="TestNG.AdvancedSearchPageTests.verifyAdvanceSearchOption" />
+        <item itemvalue="TestNG.AdvancedSearchPageTests" />
+        <item itemvalue="TestNG.AddToCartPageTests.verifySignInPageOption" />
       </list>
     </recent_temporary>
   </component>
@@ -121,37 +194,65 @@
       <option name="presentableId" value="Default" />
       <updated>1580703787434</updated>
     </task>
+    <task id="LOCAL-00001" summary="removed space">
+      <created>1581223537265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581223537265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed space" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed space" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1580707166696">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1580707166696" />
-    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1580707166695">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1580707166695" />
-    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1580707166695">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1580707166695" />
-    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1580707166696">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1580707166696" />
-    <state x="349" y="142" key="SettingsEditor" timestamp="1580706482408">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1580706482408" />
-    <state x="531" y="243" key="Vcs.Push.Dialog.v2" timestamp="1581223456121">
+    <state x="548" y="105" key="CommitChangelistDialog2" timestamp="1581223536876">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
-    <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223456121" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1580755441155">
+    <state x="548" y="105" key="CommitChangelistDialog2/0.23.1680.967@0.23.1680.967" timestamp="1581223536876" />
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581681971514">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1580755441155" />
+    <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581681971514" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581681971514">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581681971514" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581681971513">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581681971513" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581681971514">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581681971514" />
+    <state x="485" y="165" key="Maven.ArtifactSearchDialog" timestamp="1581680987568">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="485" y="165" key="Maven.ArtifactSearchDialog/0.23.1680.960@0.23.1680.960" timestamp="1581680987568" />
+    <state x="349" y="142" key="SettingsEditor" timestamp="1581578232340">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1581578232340" />
+    <state x="531" y="243" key="Vcs.Push.Dialog.v2" timestamp="1581223739900">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223739900" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581561532205">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581561532205" />
+    <state x="721" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581223772535">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="721" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.967@0.23.1680.967" timestamp="1581223772535" />
     <state x="570" y="301" key="git4idea.merge.GitPullDialog" timestamp="1581223274992">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
@@ -160,9 +261,9 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="505" y="231" key="run.anything.popup/0.23.1680.960@0.23.1680.960" timestamp="1580705542606" />
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1580706479288">
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1581661139925">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1580706479288" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1581661139925" />
   </component>
 </project>
