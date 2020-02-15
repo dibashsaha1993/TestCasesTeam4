@@ -40,7 +40,7 @@ public class SprintBusinessPageTest {
     public void SearchButtonBP(){
         businessPageobj.Validate_SearchTab();
         String actual=driver.getCurrentUrl();
-        Assert.assertEquals(actual,"https://business.sprint.com/");
+        Assert.assertEquals(actual,"https://smallbusiness.sprint.com/?INTNAV=Header:SmallBusiness");
     }
    // @Test(priority = 3)
     public void LearnMoreTab(){
@@ -64,7 +64,7 @@ public class SprintBusinessPageTest {
     public void WhySprint(){
         businessPageobj.Validate_WhySprint();
         String actual=driver.getCurrentUrl();
-        Assert.assertEquals(actual,"https://business.sprint.com/why-sprint/");
+        Assert.assertEquals(actual,"https://smallbusiness.sprint.com/why-sprint/?INTNAV=Header:WhySprint");
     }
     @Test(priority = 7)
     public void Validate_NetworkTab(){
@@ -76,7 +76,7 @@ public class SprintBusinessPageTest {
     public void Validate_ShopTab(){
         businessPageobj.Validate_ShopTab();
         String actual=driver.getCurrentUrl();
-        Assert.assertEquals(actual,"https://business.sprint.com/shop/?INTNAV=Header:Shop&flow=&tabId=dvcTab1820005");
+        Assert.assertEquals(actual,"https://smallbusiness.sprint.com/ideas/?INTNAV=Header:Ideas");
     }
 
 

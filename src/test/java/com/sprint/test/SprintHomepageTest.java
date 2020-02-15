@@ -55,7 +55,7 @@ public class SprintHomepageTest {
         Thread.sleep(3000);
         homePageObj.ValidateEnglish();
         String actual=driver.getCurrentUrl();
-        Assert.assertEquals(actual,"https://www.sprint.com/");
+        Assert.assertEquals(actual,"https://es.sprint.com/");
         Thread.sleep(3000);
     }
 

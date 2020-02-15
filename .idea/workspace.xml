@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sprint/BusinessPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sprint/BusinessPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintBusinessPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintBusinessPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,77 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml">
+  <component name="RunManager" selected="TestNG.Medicaid_FAQpageTest">
+    <configuration name="Medicaid_FAQpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.medicaid.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.medicaid.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.medicaid.tests.Medicaid_FAQpageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintBusinessPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintBusinessPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintBusinessPageTest.IwouldLikeToTab" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintBusinessPageTest" />
+      <option name="METHOD_NAME" value="IwouldLikeToTab" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintBusinessPageTest.Validate_NetworkTab" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintBusinessPageTest" />
+      <option name="METHOD_NAME" value="Validate_NetworkTab" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SprintHomepageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
@@ -77,77 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SprintHomepageTest.ValidateBusiness" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateBusiness" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SprintHomepageTest.ValidateCheckCoverage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateCheckCoverage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SprintHomepageTest.ValidateSignInButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateSignInButton" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/EbaySuite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" />
+        <item itemvalue="TestNG.Medicaid_FAQpageTest" />
         <item itemvalue="TestNG.SprintHomepageTest" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateBusiness" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateCheckCoverage" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateSignInButton" />
+        <item itemvalue="TestNG.SprintBusinessPageTest" />
+        <item itemvalue="TestNG.SprintBusinessPageTest.Validate_NetworkTab" />
+        <item itemvalue="TestNG.SprintBusinessPageTest.IwouldLikeToTab" />
       </list>
     </recent_temporary>
   </component>
@@ -197,26 +206,26 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.960@0.23.1680.960" timestamp="1581685546264" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581752645197">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581775168900">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581752645197" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581752645196">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581775168900" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581775168899">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581752645196" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581752645196">
+    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581775168899" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581775168899">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581752645196" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581752645197">
+    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581775168899" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581775168900">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581752645197" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581775168900" />
     <state x="485" y="165" key="Maven.ArtifactSearchDialog" timestamp="1581680987568">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -229,10 +238,10 @@
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223739900" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581695198085">
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581773693119">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581695198085" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581773693119" />
     <state x="721" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581223772535">
       <screen x="0" y="23" width="1680" height="967" />
     </state>

@@ -37,14 +37,14 @@ public class BusinessPage {
         LearnMoreTab.click();
     }
 
-    @FindBy(xpath = "//*[@id=\"menu-main-menu\"]/li[1]/a/span")
+    @FindBy(linkText = "I would like to…")
     WebElement IwouldLikeToTab;
 
     public void Validate_IwouldLikeTab() {
         IwouldLikeToTab.click();
     }
 
-    @FindBy(xpath = "//span[contains(text(),'Solutions')]")
+    @FindBy(xpath = "//span[@xpath='1']")
     WebElement SolutionTab;
 
     public void Validate_Solution() {
@@ -57,7 +57,7 @@ public class BusinessPage {
     public void Validate_WhySprint() {
         whySprint.click();
     }
-    @FindBy(xpath = "//li[@class='menu-item menu-item-type-post_type menu-item-object-page menu-item-18045 publish']//a[contains(text(),'Network')]")
+    @FindBy(css = "#menu-main-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-18045.publish > a")
     WebElement networkTab;
     public void Validate_networkTab(){
         networkTab.click();
