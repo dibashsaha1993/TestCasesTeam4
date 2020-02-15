@@ -48,18 +48,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.medicaid.tests" />
+      <recent name="com.medicaid" />
       <recent name="com.cigna.test" />
       <recent name="com" />
       <recent name="com.sprint.test" />
-      <recent name="com.sprint" />
-      <recent name="com.cigna.pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SprintHomepageTest">
+  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml">
     <configuration name="SprintHomepageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
@@ -88,24 +88,6 @@
       <option name="PACKAGE_NAME" value="com.sprint.test" />
       <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
       <option name="METHOD_NAME" value="ValidateBusiness" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SprintHomepageTest.ValidateCart" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateCart" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -149,13 +131,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/EbaySuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/EbaySuite.xml" />
         <item itemvalue="TestNG.SprintHomepageTest" />
         <item itemvalue="TestNG.SprintHomepageTest.ValidateBusiness" />
         <item itemvalue="TestNG.SprintHomepageTest.ValidateCheckCoverage" />
         <item itemvalue="TestNG.SprintHomepageTest.ValidateSignInButton" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateCart" />
       </list>
     </recent_temporary>
   </component>
@@ -205,26 +197,26 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.960@0.23.1680.960" timestamp="1581685546264" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581695180109">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581752645197">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581695180109" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581695180108">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581752645197" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581752645196">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581695180108" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581695180107">
+    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581752645196" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581752645196">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581695180107" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581695180108">
+    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581752645196" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581752645197">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581695180108" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581752645197" />
     <state x="485" y="165" key="Maven.ArtifactSearchDialog" timestamp="1581680987568">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
