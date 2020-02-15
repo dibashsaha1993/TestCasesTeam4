@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="removed space">
-      <change afterPath="$PROJECT_DIR$/MedicaidSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SprintSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CignaSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/medicaid/FAQpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/medicaid/FAQpage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/medicaid/FAQpage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/medicaid/FAQpage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/MedicaidSuite.xml">
+  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml">
     <configuration name="Medicaid_FAQpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
@@ -98,17 +95,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SprintHomepageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CignaSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -137,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" />
         <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/MedicaidSuite.xml" />
         <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/SprintSuite.xml" />
         <item itemvalue="TestNG.Medicaid_FAQpageTest" />
         <item itemvalue="TestNG.SprintBusinessPageTest" />
-        <item itemvalue="TestNG.SprintHomepageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,26 +182,26 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.960@0.23.1680.960" timestamp="1581780298176" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581782114121">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom" timestamp="1581783693679">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581782114121" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581782114120">
+    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581783693679" />
+    <state width="1455" height="257" key="GridCell.Tab.0.center" timestamp="1581783693679">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581782114120" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581782114120">
+    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581783693679" />
+    <state width="1455" height="257" key="GridCell.Tab.0.left" timestamp="1581783693678">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581782114120" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581782114121">
+    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581783693678" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right" timestamp="1581783693679">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581782114121" />
+    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581783693679" />
     <state x="485" y="165" key="Maven.ArtifactSearchDialog" timestamp="1581680987568">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -225,10 +215,10 @@
     </state>
     <state x="531" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1581781340134" />
     <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223739900" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581779457777">
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581782992638">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581779457777" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581782992638" />
     <state x="721" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581223772535">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
