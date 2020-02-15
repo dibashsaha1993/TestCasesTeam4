@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sprint/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sprint/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintBusinessPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintBusinessPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sprint/test/SprintHomepageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cigna/pages/CignaHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sprint/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sprint/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cigna/test/CignaHmePageTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,10 +237,10 @@
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223739900" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581685388399">
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581695198085">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581685388399" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581695198085" />
     <state x="721" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581223772535">
       <screen x="0" y="23" width="1680" height="967" />
     </state>
