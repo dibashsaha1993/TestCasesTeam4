@@ -50,7 +50,7 @@ public class FAQpage {
     public void Validate_PlusButton1(){
         PlusButton1.click();
     }
-    @FindBy(css ="#toggle-panels > span:nth-child(2) > li > button > span:nth-child(1)")
+    @FindBy(xpath ="//*[@id=\"toggle-panels\"]/span[1]/li/button/span[1]/svg")
     WebElement PlusButton2;
     public void Validate_PlusButton2(){
         PlusButton2.click();

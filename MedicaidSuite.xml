@@ -1,0 +1,15 @@
+<suite name="Regression Suite"> 
+    
+    <parameter name="browser" value="chrome"></parameter>
+    <parameter name="url" value="https://www.medicaid.gov/index.html"></parameter>
+    <test name="regression test">
+        
+        <classes>
+            <class name="com.medicaid.tests.Medicaid_HomePageTest"></class>
+            <class name="com.medicaid.tests.Medicaid_FAQpageTest"></class>
+        </classes>
+        
+    </test>
+    
+    
+</suite>
