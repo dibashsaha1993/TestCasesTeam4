@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="removed space">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cigna/test/CignaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cigna/test/CignaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/FooterPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bddTest/capitalone/tests/FooterPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/MenuPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bddTest/capitalone/tests/MenuPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/SignInPageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bddTest/runner/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/capitalone/tests/FooterPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/capitalone/tests/MenuPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/capitalone/tests/SignInPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/runner/TestRunner.class" beforeDir="false" />
-    </list>
+    <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="removed space" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,33 +206,33 @@
     </state>
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.960@0.23.1680.960" timestamp="1581780298176" />
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.961@0.23.1680.961" timestamp="1581841337662" />
-    <state width="1638" height="223" key="GridCell.Tab.0.bottom" timestamp="1581853542144">
+    <state width="1638" height="223" key="GridCell.Tab.0.bottom" timestamp="1581853823257">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534700" />
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1638" height="223" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581853542144" />
+    <state width="1638" height="223" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581853823257" />
     <state width="1638" height="224" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1581842654061" />
-    <state width="1638" height="223" key="GridCell.Tab.0.center" timestamp="1581853542143">
+    <state width="1638" height="223" key="GridCell.Tab.0.center" timestamp="1581853823256">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534698" />
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1638" height="223" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581853542143" />
+    <state width="1638" height="223" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581853823256" />
     <state width="1638" height="224" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1581842654060" />
-    <state width="1638" height="223" key="GridCell.Tab.0.left" timestamp="1581853542143">
+    <state width="1638" height="223" key="GridCell.Tab.0.left" timestamp="1581853823255">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534697" />
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1638" height="223" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581853542143" />
+    <state width="1638" height="223" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581853823255" />
     <state width="1638" height="224" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1581842654060" />
-    <state width="1638" height="223" key="GridCell.Tab.0.right" timestamp="1581853542144">
+    <state width="1638" height="223" key="GridCell.Tab.0.right" timestamp="1581853823257">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534699" />
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1638" height="223" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581853542144" />
+    <state width="1638" height="223" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581853823257" />
     <state width="1638" height="224" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1581842654061" />
     <state x="485" y="155" key="Maven.ArtifactSearchDialog" timestamp="1581837241655">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -255,10 +243,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1581837104822" />
-    <state x="531" y="241" key="Vcs.Push.Dialog.v2" timestamp="1581842009784">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state x="531" y="241" key="Vcs.Push.Dialog.v2" timestamp="1581853917812">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="531" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1581781340134" />
+    <state x="531" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1581853917812" />
     <state x="531" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1581842009784" />
     <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223739900" />
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581851467056">
