@@ -29,8 +29,7 @@ public class CignaTest {
 
 
     @Test(priority = 1)
-    public void ValidateLogo(WebDriver driver) throws InterruptedException {
-
+    public void ValidateLogo() throws InterruptedException {
 
         driver.findElement(By.cssSelector("#includes-content > div.d-none.d-lg-block > nav:nth-child(2) > div > a > svg")).click(); //logo validate
         Thread.sleep(2000);
@@ -104,12 +103,12 @@ public class CignaTest {
     @Test(priority = 10)
     public void ValidateHealthCareProvider() throws InterruptedException {
 
-        driver.findElement(By.linkText("Health Care Providers")).click();
+        driver.findElement(By.xpath("//a[@class='nav-link'][contains(text(),'Health Care Providers')]")).click();
         Thread.sleep(3000);
     }
     @Test(priority = 11)
     public void Credential_UnderHCP() throws InterruptedException {
-       ValidateHealthCareProvider();
+       driver.findElement(By.xpath("//a[@class='nav-link'][contains(text(),'Health Care Providers')]")).click();
         driver.findElement(By.xpath("//*[@id=\"nav-item-l2-credentialing\"]/button")).click(); // credential drop down
         Thread.sleep(1000);
     }

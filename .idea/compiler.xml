@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="13">
-      <module name="Team4_WebAutomationFramework" target="11" />
+      <module name="Team4_WebAutomationFramework" target="1.9" />
     </bytecodeTargetLevel>
   </component>
 </project>

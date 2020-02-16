@@ -1,0 +1,18 @@
+<suite name="Regression Suite">
+
+    <parameter name="browser" value="chrome"></parameter>
+    <parameter name="url" value="https://www.jetblue.com/"></parameter>
+
+    <test name="regression test">
+
+        <classes>
+            <class name="com.jetblue.tests.JetblueHomePageTests"></class>
+            <class name="com.jetblue.tests.JetblueSigninPageTests"></class>
+            <class name="com.jetblue.tests.JetblueForgetPasswordTests"></class>
+            <class name="com.jetblue.tests.JetblueFooterPageTests"></class>
+        </classes>
+
+    </test>
+
+
+</suite>

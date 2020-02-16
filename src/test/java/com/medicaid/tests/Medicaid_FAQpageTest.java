@@ -17,6 +17,7 @@ public class Medicaid_FAQpageTest {
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "/Users/dibashsaha/Desktop/LearnSetupMaven/DriverHere/chromedriver");
         driver = new ChromeDriver();
+        driver.manage().deleteAllCookies();
         driver.get("https://www.medicaid.gov/faq/index.html");
 
         FaqPageobj = new FAQpage(driver);

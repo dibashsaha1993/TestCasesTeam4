@@ -20,6 +20,7 @@ public class Medicaid_HomePageTest {
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "/Users/dibashsaha/Desktop/LearnSetupMaven/DriverHere/chromedriver");
         driver = new ChromeDriver();
+        driver.manage().deleteAllCookies();
         driver.get("https://www.medicaid.gov/index.html");
 
         homePageObj = new HomePage(driver);

@@ -7,6 +7,8 @@ import java.io.Reader;
 import java.util.Properties;
 
 
+import com.jetblue.pages.*;
+import com.jetblue.pages.JetblueHomePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -30,7 +32,11 @@ public class BaseTest{
 	public SignInPage signInPageObj;
 	public HelpAndContactPage helpPageObj;
 
+	public JetblueHomePage jetHomePageObj;
+	public JetblueSigninPage jetSigninPageObj;
 
+	public JetblueForgetPasswordPage jetblueForgetPassPageObj;
+	public JetblueFooterPage jetblueFooterPageObj;
 
 	
 	public BaseTest() throws Exception{ 
@@ -69,7 +75,10 @@ public class BaseTest{
 		signInPageObj = new SignInPage(driver);
 		helpPageObj = new HelpAndContactPage(driver);
 
-
+		jetHomePageObj = new JetblueHomePage(driver);
+		jetSigninPageObj = new JetblueSigninPage(driver);
+		jetblueForgetPassPageObj = new JetblueForgetPasswordPage(driver);
+		jetblueFooterPageObj = new JetblueFooterPage(driver);
 
 	}
 
