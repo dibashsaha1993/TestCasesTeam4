@@ -1,4 +1,4 @@
-package com.test.runner;
+package com.bddTest.runner;
 
 
 import cucumber.api.CucumberOptions;

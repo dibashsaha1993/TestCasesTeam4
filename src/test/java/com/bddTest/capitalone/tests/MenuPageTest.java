@@ -1,12 +1,20 @@
-package com.test.capitalone.tests;
+package com.bddTest.capitalone.tests;
 
-public class FooterPageTest {
-/*
+import cucumber.api.java.en.*;
+import junit.framework.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import java.util.concurrent.TimeUnit;
+
+public class MenuPageTest {
+
 	WebDriver driver;
 	
 	@Given("^to load the application url$")
 	public void to_load_the_application_url() {
-		System.setProperty("webdriver.chrome.driver", "E:\\SeleniumAutomation\\feb_batch\\ParasProject\\drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
 		driver =new ChromeDriver();
 		driver.get("https://www.capitalone.com/");
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
@@ -38,5 +46,5 @@ public class FooterPageTest {
 	@Then("^i close the browser$")
 	public void i_close_the_browser() {
 		driver.quit();
-	}*/
+	}
 }

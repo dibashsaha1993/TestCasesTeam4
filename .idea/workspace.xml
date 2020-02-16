@@ -2,76 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f58c32c-ba62-4235-8d40-e3191bee853c" name="Default Changelist" comment="removed space">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jetblue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jetblue/pages/JetblueFooterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jetblue/pages/JetblueForgetPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jetblue/pages/JetblueHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jetblue/pages/JetblueSigninPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jetblue/tests/JetblueFooterPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jetblue/tests/JetblueForgetPasswordTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jetblue/tests/JetblueHomePageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jetblue/tests/JetblueSigninPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/FooterPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/MenuPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/SignInPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/CapitalOne/Footer.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/CapitalOne/Menu.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team4_WebAutomationFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Team4_WebAutomationFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/common/utils/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/common/utils/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cigna/test/CignaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cigna/test/CignaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/medicaid/tests/Medicaid_FAQpageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/medicaid/tests/Medicaid_FAQpageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/medicaid/tests/Medicaid_HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/medicaid/tests/Medicaid_HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/interfaces/home/HomePageInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/interfaces/home/HomePageInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/interfaces/home/SearchPageInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/interfaces/home/SearchPageInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/pages/login/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/pages/login/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/pages/login/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/pages/login/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ebay/interfaces/HomePageInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ebay/interfaces/HomePageInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ebay/pages/AdvancedSearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ebay/pages/AdvancedSearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ebay/pages/HelpAndContactPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ebay/pages/HelpAndContactPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ebay/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ebay/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ebay/pages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ebay/pages/SignInPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/medicaid/FAQpage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/medicaid/FAQpage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/medicaid/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/medicaid/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sprint/BusinessPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sprint/BusinessPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sprint/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sprint/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/CommonMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/EnvironmentConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/EnvironmentConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/PropertiesUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/web/common/utils/ReadProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/web/common/utils/ReadProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/ActionEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/ActionEvents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/JavaScriptExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/JavaScriptExecutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/MenuTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/MenuTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchMultipleProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchMultipleProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/tests/home/SearchPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cigna/test/CignaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cigna/test/CignaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AddToCartPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AddToCartPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AdvancedSearchPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/AdvancedSearchPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HelpAndContactPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HelpAndContactPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HomePageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/HomePageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/SignInPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/ebay/tests/SignInPageTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/medicaid/tests/Medicaid_FAQpageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/medicaid/tests/Medicaid_FAQpageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/medicaid/tests/Medicaid_HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/medicaid/tests/Medicaid_HomePageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sprint/test/SprintBusinessPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sprint/test/SprintBusinessPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sprint/test/SprintHomepageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sprint/test/SprintHomepageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/FooterPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bddTest/capitalone/tests/FooterPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/MenuPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bddTest/capitalone/tests/MenuPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/capitalone/tests/SignInPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bddTest/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/capitalone/tests/FooterPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/capitalone/tests/MenuPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/capitalone/tests/SignInPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/runner/TestRunner.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,22 +73,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/com/jetblue/tests" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team4_WebAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.test.runner.TestRunner" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.CignaTest">
     <configuration name="CignaTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
@@ -165,17 +91,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SprintHomepageTest.ValidateBusiness" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CignaTest,Credential_UnderHCP and 2 more" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team4_WebAutomationFramework" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="com.cigna.test.CignaTest,Credential_UnderHCP" />
+        <pattern testClass="com.cigna.test.CignaTest,CoverageAndClaim_UnderHCP" />
+        <pattern testClass="com.cigna.test.CignaTest,Pharmacy_UnderHCP" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CignaTest.LogIntoMyCigna" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="PATTERN" value="com.cigna.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateBusiness" />
+      <option name="PACKAGE_NAME" value="com.cigna.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cigna.test.CignaTest" />
+      <option name="METHOD_NAME" value="LogIntoMyCigna" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -183,17 +123,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SprintHomepageTest.ValidateCheckCoverage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CignaTest.ValidateJoinInTab" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sprint.test.*" />
+          <option name="PATTERN" value="com.cigna.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sprint.test" />
-      <option name="MAIN_CLASS_NAME" value="com.sprint.test.SprintHomepageTest" />
-      <option name="METHOD_NAME" value="ValidateCheckCoverage" />
+      <option name="PACKAGE_NAME" value="com.cigna.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cigna.test.CignaTest" />
+      <option name="METHOD_NAME" value="ValidateJoinInTab" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -201,10 +141,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CignaTest.ValidateJoinInTabExtention" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Team4_WebAutomationFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/CignaSuite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cigna.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cigna.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cigna.test.CignaTest" />
+      <option name="METHOD_NAME" value="ValidateJoinInTabExtention" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -213,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="TestNG.CignaTest" />
-        <item itemvalue="TestNG./Users/dibashsaha/Desktop/DibashProject/CignaSuite.xml" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateBusiness" />
-        <item itemvalue="TestNG.SprintHomepageTest.ValidateCheckCoverage" />
+        <item itemvalue="TestNG.CignaTest.LogIntoMyCigna" />
+        <item itemvalue="TestNG.CignaTest.ValidateJoinInTabExtention" />
+        <item itemvalue="TestNG.CignaTest.ValidateJoinInTab" />
+        <item itemvalue="TestNG.CignaTest,Credential_UnderHCP and 2 more" />
       </list>
     </recent_temporary>
   </component>
@@ -259,43 +207,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="removed space" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="104" key="CommitChangelistDialog2" timestamp="1581781595039">
-      <screen x="0" y="23" width="1680" height="960" />
+    <state x="548" y="104" key="CommitChangelistDialog2" timestamp="1581841817638">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="548" y="104" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1581781595039" />
+    <state x="548" y="104" key="CommitChangelistDialog2/0.23.1680.961@0.23.1680.961" timestamp="1581841817638" />
     <state x="548" y="105" key="CommitChangelistDialog2/0.23.1680.967@0.23.1680.967" timestamp="1581223536876" />
-    <state x="791" y="403" key="Github.ShareDialog" timestamp="1581780298176">
-      <screen x="0" y="23" width="1680" height="960" />
+    <state x="791" y="403" key="Github.ShareDialog" timestamp="1581841337662">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="791" y="403" key="Github.ShareDialog/0.23.1680.960@0.23.1680.960" timestamp="1581780298176" />
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom" timestamp="1581837650976">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="791" y="403" key="Github.ShareDialog/0.23.1680.961@0.23.1680.961" timestamp="1581841337662" />
+    <state width="1638" height="223" key="GridCell.Tab.0.bottom" timestamp="1581853542144">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581837650976" />
+    <state width="1638" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534700" />
     <state width="727" height="257" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1581456496442" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581837511010" />
-    <state width="1455" height="257" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1581831977303" />
-    <state width="1638" height="257" key="GridCell.Tab.0.center" timestamp="1581837650974">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="223" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581853542144" />
+    <state width="1638" height="224" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1581842654061" />
+    <state width="1638" height="223" key="GridCell.Tab.0.center" timestamp="1581853542143">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581837650974" />
+    <state width="1638" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534698" />
     <state width="727" height="257" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581837511009" />
-    <state width="1455" height="257" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1581831977302" />
-    <state width="1638" height="257" key="GridCell.Tab.0.left" timestamp="1581837650974">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="223" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581853542143" />
+    <state width="1638" height="224" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1581842654060" />
+    <state width="1638" height="223" key="GridCell.Tab.0.left" timestamp="1581853542143">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581837650974" />
+    <state width="1638" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534697" />
     <state width="727" height="257" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1581456496440" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581837511009" />
-    <state width="1455" height="257" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1581831977302" />
-    <state width="1638" height="257" key="GridCell.Tab.0.right" timestamp="1581837650975">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1638" height="223" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581853542143" />
+    <state width="1638" height="224" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1581842654060" />
+    <state width="1638" height="223" key="GridCell.Tab.0.right" timestamp="1581853542144">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1638" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581837650975" />
+    <state width="1638" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581838534699" />
     <state width="727" height="257" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1581456496441" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581837511009" />
-    <state width="1455" height="257" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1581831977303" />
+    <state width="1638" height="223" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581853542144" />
+    <state width="1638" height="224" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1581842654061" />
     <state x="485" y="155" key="Maven.ArtifactSearchDialog" timestamp="1581837241655">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -305,15 +255,16 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1581837104822" />
-    <state x="531" y="241" key="Vcs.Push.Dialog.v2" timestamp="1581781340134">
-      <screen x="0" y="23" width="1680" height="960" />
+    <state x="531" y="241" key="Vcs.Push.Dialog.v2" timestamp="1581842009784">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="531" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1581781340134" />
+    <state x="531" y="241" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1581842009784" />
     <state x="531" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1581223739900" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581818810056">
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1581851467056">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581818810056" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1581851467056" />
     <state x="721" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581223772535">
       <screen x="0" y="23" width="1680" height="967" />
     </state>

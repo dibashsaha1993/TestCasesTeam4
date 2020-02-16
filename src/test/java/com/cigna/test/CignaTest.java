@@ -18,6 +18,7 @@ public class CignaTest {
         System.setProperty("webdriver.chrome.driver", "/Users/dibashsaha/Desktop/LearnSetupMaven/DriverHere/chromedriver");
         driver = new ChromeDriver();
         driver.get("https://www.cigna.com/");
+        driver.manage().deleteAllCookies();
     }
 
     @AfterTest
@@ -30,8 +31,9 @@ public class CignaTest {
 
     @Test(priority = 1)
     public void ValidateLogo() throws InterruptedException {
-
         driver.findElement(By.cssSelector("#includes-content > div.d-none.d-lg-block > nav:nth-child(2) > div > a > svg")).click(); //logo validate
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/");
         Thread.sleep(2000);
     }
 
@@ -67,12 +69,16 @@ public class CignaTest {
     @Test(priority = 5)
     public void ValidateEmployerAndBroker() throws InterruptedException {
         driver.findElement(By.xpath("//*[@id=\"includes-content\"]/div[1]/nav[3]/div/ul/li[2]/a")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/es-us/employers-brokers/");
         Thread.sleep(3000);
     }
 
     @Test(priority = 6)
     public void ValidateAboutUs() throws InterruptedException {
         driver.findElement(By.xpath("//*[@id=\"includes-content\"]/div[1]/nav[3]/div/ul/li[4]/a")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/about-us/");
         Thread.sleep(3000);
     }
 
@@ -82,66 +88,86 @@ public class CignaTest {
         driver.findElement(By.xpath("//*[@id=\"csng-search-header\"]/search-header-bar/form/div/cigna-typeahead/input")).sendKeys("Contact us");
         Thread.sleep(3000);
         driver.findElement(By.xpath("//*[@id=\"csng-search-header\"]/search-header-bar/form/div/cigna-typeahead/div/button")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/search?query=Contact%2Bus");
         Thread.sleep(2000);
 
     }
 
     @Test(priority = 8)
     public void LocationFindertab() throws InterruptedException {
-
         driver.findElement(By.xpath("//*[@id=\"includes-content\"]/div[1]/nav[2]/div/ul/li[1]/a")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/search?query=Contact%2Bus");
         Thread.sleep(5000);
 
     }
-    @Test(priority = 9)
+   // @Test(priority = 9)
     public void LogIntoMyCigna() throws InterruptedException {
-
         driver.findElement(By.xpath("//*[@id=\"includes-content\"]/div[1]/nav[2]/div/ul/li[2]/a")).click();
+        Thread.sleep(6000);
+        driver.findElement(By.id("//input[@id='username']")).sendKeys("dcssd@fds");
+
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/search?query=Contact%2Bus");
         Thread.sleep(5000);
 
     }
     @Test(priority = 10)
     public void ValidateHealthCareProvider() throws InterruptedException {
-
         driver.findElement(By.xpath("//a[@class='nav-link'][contains(text(),'Health Care Providers')]")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/es-us/health-care-providers/");
         Thread.sleep(3000);
     }
     @Test(priority = 11)
     public void Credential_UnderHCP() throws InterruptedException {
        driver.findElement(By.xpath("//a[@class='nav-link'][contains(text(),'Health Care Providers')]")).click();
+        Thread.sleep(5000);
         driver.findElement(By.xpath("//*[@id=\"nav-item-l2-credentialing\"]/button")).click(); // credential drop down
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/health-care-providers/");
         Thread.sleep(1000);
     }
     @Test(priority = 12)
     public void CoverageAndClaim_UnderHCP() throws InterruptedException {
         ValidateHealthCareProvider();
         driver.findElement(By.xpath("//*[@id=\"nav-item-l2-coverage-and-claims\"]/button")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/health-care-providers/");
         Thread.sleep(1000);
     }
     @Test(priority = 13)
     public void Pharmacy_UnderHCP() throws InterruptedException {
         ValidateHealthCareProvider();
         driver.findElement(By.xpath("//*[@id=\"nav-item-l2-pharmacy\"]/button")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/health-care-providers/");
         Thread.sleep(1000);
     }
     @Test(priority = 14)
     public void ProviderResources_UnderHCP() throws InterruptedException {
         ValidateHealthCareProvider();
         driver.findElement(By.xpath("//*[@id=\"nav-item-l2-resources\"]/button")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/health-care-providers/");
         Thread.sleep(1000);
     }
 
     @Test(priority = 15)
     public void ValidateJoinInTab() throws InterruptedException {
         driver.findElement(By.xpath("//*[@id=\"1571567674833\"]/div/div/div[2]/div[1]/p[2]/a")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/");
         Thread.sleep(7000);
     }
     @Test(priority = 16)
     public void ValidateJoinInTabExtention() throws InterruptedException {
         driver.findElement(By.linkText("Health Care Providers")).click();
-        Thread.sleep(3000);
-
-        driver.findElement(By.id("firstname")).sendKeys("wwww.dibash.com");
+        Thread.sleep(5000);
+        driver.findElement(By.xpath("//a[contains(text(),'Join Our')]")).click();
+        String actual=driver.getCurrentUrl();
+        Assert.assertEquals(actual,"https://www.cigna.com/health-care-providers/credentialing/");
         Thread.sleep(2000);
     }
     @Test(priority = 17)
